@@ -1,13 +1,8 @@
 # Ganeshotsav Invitation
 
-Static invitation website for GitHub Pages.
+Final GitHub Pages package with a clean animated invitation video generated only from the invitation card.
 
-## Publish
-1. Upload all files/folders in this package to the repository root.
-2. In GitHub: Settings → Pages.
-3. Under Build and deployment choose **Deploy from a branch**.
-4. Select **main** and **/(root)**, then Save.
-5. Wait about 1–3 minutes.
-
-Your site URL will be:
-https://tparth-87.github.io/ganeshotsav-invitation/
+Upload these files to the repository root:
+- index.html
+- invitation.jpg
+- invitation.mp4
